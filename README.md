@@ -7,4 +7,4 @@
 ### I am currently learning:
 > C# and C++ for game development.
 
-[![NerdyTechy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdyTechy)](https://github.com/NerdyTechy&count_private=true&show_icons=true&theme=dark)
+[![NerdyTechy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdyTechy&count_private=true&show_icons=true&theme=dark)](https://github.com/NerdyTechy)
