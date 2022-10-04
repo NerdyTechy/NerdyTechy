@@ -1,10 +1,6 @@
 # :wave: Hey! I'm techy!
-> I'm a nerd that likes software, web, and game development! I can code in Java, Python, HTML, CSS, and a little of JS. I'm still new to HTML and CSS so some of my code is a little messy, but over time it will get better and better. I'm also in the process of trying to learn C# and C++ for game development. I also own the [@TechCraftMC](https://github.com/TechCraftMC) Minecraft multiplayer network which I code plugins in Java for.
+> I'm a nerd who likes software, web, and game development! I am fluent in many languages including Java, Python, HTML/CSS, JavaScript, and many more.
 
-### I can code:
-> Java, Python, HTML, CSS, and JS.
+[![NerdyTechy's GitHub Stats](https://github-readme-stats-nerdytechy.vercel.app/api?username=NerdyTechy&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300)](https://github.com/NerdyTechy)
 
-### I am currently learning:
-> C# and C++ for game development.
-
-[![NerdyTechy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdyTechy&count_private=true&show_icons=true&theme=dark)](https://github.com/NerdyTechy)
+[![NerdyTechy's Language stats](https://github-readme-stats-nerdytechy.vercel.app/api/top-langs/?username=NerdyTechy&layout=compact&card_width=306&theme=dark&hide_title=true)](https://github.com/NerdyTechy)
