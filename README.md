@@ -1,8 +1,8 @@
 <h2>Hey, I'm techy.</h2>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://komarev.com/ghpvc/?username=NerdyTechy&style=for-the-badge&label=Profile+Views">
-  <img src="https://img.shields.io/github/followers/NerdyTechy?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Website-techy.lol-blue?style=for-the-badge">
+  <a href="https://github.com/NerdyTechy"><img src="https://komarev.com/ghpvc/?username=NerdyTechy&style=for-the-badge&label=Profile+Views"></a>
+  <a href="https://github.com/NerdyTechy"><img src="https://img.shields.io/github/followers/NerdyTechy?style=for-the-badge"></a>
+  <a href="https://techy.lol"><img src="https://img.shields.io/badge/Website-techy.lol-blue?style=for-the-badge"></a>
 </td>
 <br><br>
 <p>I'm a full-stack software and web developer from the UK.</p>
