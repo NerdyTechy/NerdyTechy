@@ -25,4 +25,6 @@ I am fluent in many languages and frameworks including Java, JavaScript, HTML, C
 <p align=center>
   <a href="https://github.com/NerdyTechy"><img src="https://stats.techy.lol/api?username=NerdyTechy&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300" /></a>
   <a href="https://github.com/NerdyTechy"><img src="https://stats.techy.lol/api/top-langs/?username=NerdyTechy&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6" /></a>
+  <br>
+  <a href="https://github.com/NerdyTechy"><img src="https://github-readme-streak-stats.herokuapp.com?user=NerdyTechy&theme=dark"></a>
 </p>
